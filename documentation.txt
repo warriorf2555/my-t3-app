@@ -10,3 +10,6 @@
 9. tldr, tRPC creates server function that run in the server
 10. trpc route, we have example. example router,
 11. Router is just an arbitrary way to break router. We can put all in one router
+12. Dont make new file until you think it is need somewhere else
+13. trpc already create type trpc next definition
+14. Dont be scary to hard refresh for awhile
