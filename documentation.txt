@@ -1,1 +1,12 @@
-1. npx rpisma 
+1. npx prisma db push
+2. npx prisma studio to open the dB 
+# Usually i would do it another branch from production feature (planetScale feature)
+3. git -p so i can pick what i want to add (mini code review)
+4. Ideally those environments are seperated (only for tutorial)
+5. Callback URLs that are obnoxious
+6. Too see author, create an index
+7. npm install after prisma schema changes as typescript doesnt knwo anything changes
+8. Typescript runs a server in the background
+9. tldr, tRPC creates server function that run in the server
+10. trpc route, we have example. example router,
+11. Router is just an arbitrary way to break router. We can put all in one router
